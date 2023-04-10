@@ -10,6 +10,4 @@ My Name is Juan Andres Gutierrez. I am a Junior Software Engineer with a passion
 
 🛠️ Tools: VSCode, Postman, Mongodb Compass, Chrome. These tools help me streamline the development process and ensure the highest quality of work.
 
-👀 My targeted page visitors are individuals or organizations looking for a skilled and versatile Junior software developer to help them build web applications that meet their needs.
-
 💻 If you have any questions or would like to collaborate on a project, please feel free to reach out to me. I am always eager to take on new challenges and work with others to create amazing applications.
