@@ -1,6 +1,6 @@
 # 👋 Hello there! 
 
-My Name is Juan Andres Gutierrez. I am a Junior software developer with a passion for creating functional and user-friendly web applications. My skills include a wide range of programming languages, frameworks, databases, and tools.
+My Name is Juan Andres Gutierrez. I am a Junior Software Engineer with a passion for creating functional and user-friendly web applications. My skills include a wide range of programming languages, frameworks, databases, and tools.
 
 🖥️ Programming Languages: Bash, HTML, CSS, JavaScript, React.js, node.js, and Python3. I love working with React.js and node.js to create powerful and dynamic web applications.
 
